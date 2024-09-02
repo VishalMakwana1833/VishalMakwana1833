@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmakwana1833&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmakwana1833" /> </p>
 
-- 🌱 I’m currently learning **ReactJs ,Python etc.**
+- 🌱 I’m currently learning **ReactJs etc.**
 
-- 📫 How to reach me **bannavishal1833@gmail.com**
+- 📫 How to reach me **Vishalmakwana0293@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
