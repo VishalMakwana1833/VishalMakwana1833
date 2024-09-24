@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Makwana</h1>
 <h3 align="center">Hello! I'm a passionate **Frontend Developer** with a keen interest in creating responsive and engaging web applications. I have a solid foundation in HTML, CSS, and JavaScript, and I'm continuously expanding my skills in modern frameworks like React from India</h3>
 
-<img align="right" alt="coding" width=400 src="https://unsplash.com/photos/text-ayjnmG4oUX4">
+<img src="https://unsplash.com/photos/text-ayjnmG4oUX4" alt="Description of image" width="400" align="right">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmakwana1833&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmakwana1833" /> </p>
 
